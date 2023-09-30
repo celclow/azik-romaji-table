@@ -662,6 +662,8 @@ ltu	っ
 lka	ヵ
 lke	ヶ
 lwa	ゎ
+wye	ゑ
+wyi	ゐ
 ;	っ
 :	ー
 -	ー
